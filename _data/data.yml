@@ -8,11 +8,11 @@ sidebar:
 
     # Profile information
     name: Loren Anderson
-    tagline: Full Stack Developer, TPM, BA
+    tagline: Senior Software Engineer, TPM, BA
     avatar: profile.png
     
     # Sidebar links
-    email: loren@lorenanderson.com
+    email: loren@goinnovise.com
     phone: 425-941-5979
     website: lorenanderson.com
     linkedin: loren-anderson-85953a13
@@ -44,108 +44,124 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Loren Anderson is a full stack developer with experience leading Scrum teams
-      in various different environments.  Loren has experience with a wide array
-      of software technologies, languages, and patterns. With is experience he 
-      has assumed the role of business analyst and Project Mananger while simultaneously
-       programming. Loren knows how to pragmatically tackle business problems and 
-       deliver successful projects while motivating a team around him.
-
-      With consulting experience Loren has learned to jump into the deep end of 
-      projects to quickly learn language, frameworks, and best practices of a team.
+      Loren is a Senior Software Engineer with 10+ years of experience successfully
+      leading teams and educating businesses on development methodologies and best
+      practices. With his extensive knowledge of a wide array of software technologies,
+      languages and frameworks, Loren has assumed many different roles throughout his
+      career such as Systems Architect, Project Manager and Business Analyst, while
+      simultaneously programming and remaining a Senior Software Engineer. He excels
+      at quickly understanding the architectural landscape of businesses to advise and
+      bridge the gap between technical and non-technical teams to achieve business
+      goals, which is why he continues to be effective in the consulting industry.
 
 
 education:
     - degree: General Studies - Focus on Business
       university: Western Washington University
-      time: 2004 - 2008
 
 experiences:
-    - role: Lead Developer
+    - role: Senior Software Engineer
       time: May 2019 - Present
-      company: Mercedes Benz (on contract by iTrellis, LLC), Seattle
+      company: Modern Car Manufacturer (Protected by NDA on contract by iTrellis, LLC)
+      location: Seattle, WA
       details: |
-        Use software to integrate several of the client's systems and delivery
-        a sucessful product within weeks. Learned the client's operations procedures
-        and use Docker &amp; Kubernetes to stand the systems up in Azure.  Loren juggled
-        several projects across different teams simultaneously and continued to management
-        the client's needs while cooridinating across different teams located in 
-        different parts of the world.
+        As the Senior Software Engineer Loren was responsible for working on two projects
+        simultaneously for multiple stakeholders within the client's organization. One
+        project focused on creating and integrating the API that provides data to all client
+        vehicle head units worldwide, aligning with changing laws &amp; regulations. The 
+        second project was solving Azure Active Directory syncing issues for a 
+        subsection of the client's employees, requiring the creation of APIs and tasks 
+        to sync the Active Directory databases. 
         
         _Accomplishments_
-          -	Successfully build software and integrated it with different systems within
-          the corporation.
-          - Worked from Seattle and worked with local teams as well as team in Europe.
-          - Worked on multiple projects at once across multiple teams.
+          -	Learned the clients operations procedures and used Docker & Kubernetes to stand
+          up both systems in Azure, resulting in successful systems integrations.
+          - Supported teams based out of Europe including during off-hours releases
+          for troubleshooting, debugging and general needs.
+          - Successfully delivered both projects ahead of projected timeline.
+          - At the request of the client, presented and demonstrated project work at meetings.
 
-    - role: Lead Developer
+    - role: Senior Software Engineer
       time: Oct 2019 - May 2019
-      company: CBRE (on contract by iTrellis, LLC), Dallas
+      company: Intl. Commercial Real Estate Corp. (Protected by NDA on contract by iTrellis, LLC)
+      location: Dallas, TX
       details: |
-        Worked with a team located in Dallas, TX doing a combination of working on-site
-        and remotely.  Loren quickly displayed that he was able to work within the team
-        by helping to solve projects on the front-end and back-end. With his help the team
-        produced an Angular-driven internal website which helped analysts within the company
-        view statistics and KPIs regarding the company's performance.
+        This project was for a client based in Dallas, Texas and required a combination
+        of remote and on-site work. Loren was tasked with working within the team to
+        produce an angular-driven internal website, featuring real-time dashboards that
+        displayed performance data an analytics used by the company's sales team.
+        Throughout this project, Loren played an integral role in solving front-end
+        and back-end projects simultaneously for the website, demonstrating the
+        benefits and efficiencies of resources that can execute both types of 
+        software design.
         
         _Accomplishments_
-          -	The only member of the team working on front-end and back-end parts of the code
-          increase production and decrease dependencies.
-          - Taught members of the team best practices.
-          - Successfully worked with the team while traveling and working remotely.
-          - Angular 7, Postgres, & GoLang
+          - The only member on the project team, working on front-end and back-end parts of the code increase production and decrease dependencies.
+          - Taught the client's team software development best practices such as git version control.
+          - Adopted Angular 7, Postgres and GoLang within a couple of days to meet the client's expectations.
 
-    - role: Lead Developer
+    - role: Account Lead & Senior Software Engineer
       time: Oct 2018 - Oct 2019
-      company: Crestron (on contract by iTrellis, LLC), New Jersey
+      company: Crestron (on contract by iTrellis, LLC)
+      location: Rockleigh, NJ
       details: |
-        Assisted in a major overhaul and deployment of the client’s
-        primary customer facing website. Then followed with continued
-        support and feature development. Helped teach software
-        development best practice to leave the client in a better
-        position.  Also helped with code reviews, release management,
-        DevOps, and documentation.
+        As a Senior Software Engineer, Loren assisted in the overhaul and deployment of
+        the client’s primary customer facing website and back-end tools to support
+        content changes and solve for multiple major performance issues.  He also provided
+        post-deployment support and continued feature development. Throughout this
+        process Loren also taught software development best practices and facilitated
+        the implementation of these processes, allowing the client to be self-sufficient 
+        post-completion of the project. He was also responsible for helping with 
+        code reviews, release management, Azure Dev Ops functions and process documentation.
         
         _Accomplishments_
-          -	Helped release an enterprise level Azure hosted website.
-          -	Integrations with CDN, DAM, Elastic Search, and more.
-          -	Quickly learned the company’s software stack and began delivering value to the customer immediately.
-          -	Planned and executed a release management solution for content managers.
+          -	Responsible for building and maintaining iTrellis's relationship with the
+          client as the Account Lead.
+          - Supported the release of enterprise level Azure hosted website.
+          - Performed successful integrations including CDN and Elastic Search.
+          - Improved site performance by reducing database calls on each pages from
+          120 calls per page to 2, making Elastic Search more efficient.
+          - Quickly learned the company’s architectural landscape to make an immediate
+          impact on the client's team.
+          - As the Release Manager, Loren planned and executed the back-end tool
+          solution for content managers.
 
 
-    - role: Developer, Project Manager, &amp; Scrum Master
+    - role:  Project Manager &amp; Senior Software Engineer
       time: Dec 2017 - Oct 2019
-      company: Capstone Technologies (on contract by iTrellis, LLC), Portland
+      company: Capstone Technologies (on contract by iTrellis, LLC)
+      location: Vancouver, WA
       details: |
-        Helped to reorganize a company that had no software change management
-        processes into a SAFe organization.  Used Microsoft Team Foundation
-        Server as the team support technology.  Currently acting Scrum Master
-        and helping the team adopt Agile principles and continuous development
-        techniques.  Produced metrics to identify strong and weak points in
-        the software creation process.
+        Played an integral role in transforming the client with no software change 
+        management processes into a SAFe organization, implementing Microsoft Team
+        Foundation Server as the team support technology. Acted as the Scrum Master,
+        supporting the team in the adoption of  Agile principles and continuous
+        development techniques. Produced metrics to identify strong and weak points
+        in the software creation process.
           
         _Accomplishments_
           -	Organized the company into 3 functioning Scrum teams.
-          -	Taught 9 developers and 5+ business analysts how to utilize the Scrum process. 
-          -	Quickly learned the company’s software stack and began delivering value to 
-          the customer.
-          -	Created a CI/CD pipeline to increase productivity and quality assurance.
+          - Taught 9 developers and 5+ business analysts how to utilize the Scrum process.
+          - Created a CI/CD pipeline to increase productivity and quality assurance.
 
 
-    - role: Developer Team Lead, Business Analyst, &amp; Scrum Master
+    - role: Team Lead &amp; Senior Software Engineer
       time: Mar 2011 - Jun 2016
-      company: ATG Stores / Lowe's, Kirkland
+      company: ATG Stores / Lowe's
+      location: Kirkland, WA
       details: |
-        Loren began his role at ATG as a software developer and quickly took over 
-        a major piece of the system. Loren rewrote the e-commerce cart and checkout
-        then built a team to help maintain and add features. Loren was essential 
-        in helping the integration with Lowe's and helped 
+        Loren was responsible for the redesign of the cart and checkout pages of
+        e-commerce home improvement companies ATGStores.com and Lowe's Canada. This
+        integral redesign ensured optimal performance for customers purchasing on
+        the website. During this time, Loren also built and lead a team of 6 software
+        engineers to maintain and add additional features to the cart and checkout
+        pages of the site.
         
         _Accomplishments_
-          - Built and maintained an e-commerce checkout using Asp.net and C#.
-          - Was a pioneer in the company by adopting Scrum methodoligies with his team.
-          - Lead the team in compliying with PCI standards.
-          - Designed and implemented a secure credit card vault.
+          - Integral part in helping meet and comply with PCI standards.
+          - Designed and created the credit card value using key encryption technology.
+          - Built and maintained a multi-million dollar checkout experience using Asp.net and C#.
+          - Implemented and lead the first team in the company to adopt Scrum methodologies.
 
 projects:
     title: Projects
@@ -196,12 +212,12 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills &amp; Proficiencies
     languages: "C#, Java, TypeScript, JavaScript, GoLang, Python, VB, SQL"
     frameworks: ".NET, Angular, RxjJS, Spring Boot, BeeGo, jQuery, Jekyll"
     tools: "Windows, Mac OS, Visual Studio, VS Code, Agile, Scrum, SAFe"
     operations: "CICD, Docker, Kubernetes, Helm, Azure Devops, Atlassian Jira, Jenkins, Atlassian Bamboo"
-    other: "Git, Azure, SQL Server, Postgres"
+    other: "Leading Teams, Cross-Functional Communication, Git, Azure, SQL Server, Postgres"
 
 #footer: >
     #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
